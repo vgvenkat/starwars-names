@@ -1,6 +1,6 @@
 {
-  "name": "micro-lib",
-  "version": "1.0.0",
+  "name": "@vgvenkat/micro-lib",
+  "version": "1.0.1",
   "description": "Random start wars names micro-lib",
   "main": "src/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/vgvenkat/starwars-names/issues"
   },
   "homepage": "https://github.com/vgvenkat/starwars-names#readme",
-  "devDependencies": {
+  "dependencies": {
     "unique-random-array": "1.0.0"
   }
 }
